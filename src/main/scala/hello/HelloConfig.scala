@@ -3,7 +3,7 @@ package hello
 import org.springframework.context.annotation.{Configuration, ComponentScan}
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration
 import org.springframework.boot;
-import.java.util.concurrent.atomic.AtomicLong;
+import java.util.concurrent.atomic.AtomicLong;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RequestParam;
